@@ -8,7 +8,7 @@ Operating System : macOS Catalina<br>
 ***
 Description
 -------------
-Inflearn강의를 들으면서 작성한 학습자료
+Inflearn강의를 들으면서 작성한 학습자료<br>
 https://www.inflearn.com/course/스프링-입문-스프링부트<br>
 ***
 Contact
